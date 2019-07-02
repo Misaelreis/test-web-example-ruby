@@ -10,5 +10,5 @@ Quando("eu clico em links e botões") do
     find('a[onclick="ativaedesativa3()"]').right_click
     visit('/')
     click_link('Github')
-    sleep 5
+    sleep (5)
 end

@@ -9,7 +9,7 @@ Quando("eu faço um cadastro") do
     fill_in(id: 'user_gender', with: 'Masculino')
     fill_in(id: 'user_age', with: '21')
     find('input[value="Criar"]').click
-    sleep 5
+    sleep (5)
 end
 
 Então("Verifico se fui cadastrado") do
