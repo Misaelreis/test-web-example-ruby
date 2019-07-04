@@ -1,6 +1,6 @@
 #language: pt
 
-@elemento_invisible
+@elementoi
 Funcionalidade: Verificando elementos invisíveis
 
 Cenário: Verificar elemnto invisível com sucesso

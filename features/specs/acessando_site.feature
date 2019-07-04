@@ -1,6 +1,6 @@
 #language: pt
 
-@acessando_url
+@acessando
 
 Funcionalidade: Acessar a primeira url
 Cenário: Acessar a url com sucesso
