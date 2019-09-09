@@ -1,6 +1,6 @@
 Exemplos de a utomação web | Ruby | BDD
 ---------------------------| -----|----
-# Testes automatizados - page objects #
+# Testes automatizados #
 ![ruby](http://compsci.ca/blog/wp-content/uploads/2007/04/ruby_logo.gif)
 ## Automação web com Ruby ##
 
